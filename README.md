@@ -18,6 +18,7 @@ I build scalable cloud-native solutions, modern distributed systems, and practic
 - DevOps Automation
 - Kubernetes Ecosystem
 
+<!--
 ## GitHub Stats
 
 <div align="center">
@@ -29,3 +30,4 @@ I build scalable cloud-native solutions, modern distributed systems, and practic
   <a href="https://github.com/diogobaracho">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobaracho&langs_count=100&hide_border=true"/>
 </div>
+-->
